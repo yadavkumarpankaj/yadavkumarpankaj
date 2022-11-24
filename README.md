@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**yadavkumarpankaj/yadavkumarpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning Python, Sql, Machine Learning and Fearture Tableau
+- 👯 I’m looking to collaborate on Data Science domain
+- 🤔 I’m looking for help with Deep learning
+- 💬 Ask me about python, sql, excel, machine learning, data science
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pankaj-kumar-yadav-02386a215/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: "I am passionate about technology,
+innovation and big challenging tasks on my
+to do list."
+
