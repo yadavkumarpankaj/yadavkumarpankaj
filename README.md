@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 # 💫I'm Pankaj Kumar Yadav and welcome to my GitHub profile! :octocat:
----
+
 <img align="right" alt="GIF" src="https://github.com/yadavkumarpankaj/yadavkumarpankaj/blob/main/code.gif" width="400" height="320" />
 🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Python, SQL, Machine Learning, and Fearture Tableau<br>👯 I’m looking to collaborate on the Data Science domain<br>🤔 I’m looking for help with Deep learning<br>💬 Ask me about python, SQL, excel, machine learning, and data science<br>📫 How to reach me: Linkedin<br>😄 Pronouns: He/Him<br>⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
