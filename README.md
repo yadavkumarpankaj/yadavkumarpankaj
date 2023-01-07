@@ -28,6 +28,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+<img align="center" src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/manufacturetocat.png" width="300"/>
+</p>
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api"/>
+</p>
+
 ---
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pankajkryadav)  
