@@ -2,6 +2,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yadavkumarpankaj.yadavkumarpankaj)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-orange?logo=GitHub)](https://github.com/yadavkumarpankaj?tab=repositories)
 
+[<img src="https://user-images.githubusercontent.com/104052797/227734220-c880c683-a61d-41d7-8595-017d1feae370.jpg" alt="Pankaj Kumar Yadav" style="width: 400px;        height: auto;">](https://www.linkedin.com/in/pankaj-kr-yadav/)
+
 
 ### Hi there 👋
 
